@@ -1,4 +1,0 @@
-spring:
-  profiles: dev
-  application:
-    name: microservice-consumer-config-clent

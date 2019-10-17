@@ -15,7 +15,6 @@
         <module>microservice-provider-hystrix</module>
         <module>microservice-consumer-feign-hystrix</module>
         <module>microservice-consumer-hystrix-dashbord</module>
-        <module>microservice-consumer-config-clent</module>
         <module>microservice-config-client</module>
     </modules>
     <packaging>pom</packaging>
