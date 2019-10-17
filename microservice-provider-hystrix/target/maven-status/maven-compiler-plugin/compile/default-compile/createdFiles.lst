@@ -1,0 +1,5 @@
+com/xc/service/UserService.class
+com/xc/service/impl/UserServiceImpl.class
+com/xc/dao/UserDao.class
+com/xc/action/UserAction.class
+com/xc/HystrixProviderApplication.class

@@ -1,0 +1,5 @@
+xc/ConsumerFeignHystrixApplication.class
+xc/service/ConsumerServiceFallbackFactory$1.class
+xc/service/ConsumerFeignHystrixService.class
+xc/action/ConsumerFeignHystrixAction.class
+xc/service/ConsumerServiceFallbackFactory.class

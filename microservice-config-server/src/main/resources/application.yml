@@ -9,3 +9,5 @@ spring:
       server:
         git:
           uri: https://github.com/tottislove/microservice-config.git
+          username: tottislove
+          password: 19920617Xc~
