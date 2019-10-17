@@ -1,10 +1,11 @@
 spring:
   profiles:
     active:
-      -dev
+    - dev
 
+---
 server:
-  port: 7001
+  port: 7003
 
 spring:
   profiles: dev
@@ -16,3 +17,18 @@ eureka:
     register-with-eureka: false
     service-url:
       defaultZone: http://eureka9002.com:9002/eureka/,http://eureka9001.com:9001/eureka/
+
+---
+server:
+  port: 7004
+
+spring:
+  profiles: test
+  application:
+    name: microservice-consumer-config-clent
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://eureka9001.com:9001/eureka/,http://eureka9002.com:9002/eureka/
