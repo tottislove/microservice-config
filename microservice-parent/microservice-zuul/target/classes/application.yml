@@ -15,8 +15,8 @@ eureka:
 info:
   app.name: microservice-zuul
   company.name: www.lzj.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: microservice-zuul
+  build.version: 1.0-SNAPSHOT
 
 zuul:
   prefix: /MyDemo

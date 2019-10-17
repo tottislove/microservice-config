@@ -1,4 +1,4 @@
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-consumer-feign-hystrix/src/main/java/xc/service/ConsumerServiceFallbackFactory.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-consumer-feign-hystrix/src/main/java/xc/ConsumerFeignHystrixApplication.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-consumer-feign-hystrix/src/main/java/xc/action/ConsumerFeignHystrixAction.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-consumer-feign-hystrix/src/main/java/xc/service/ConsumerFeignHystrixService.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-consumer-feign-hystrix/src/main/java/xc/ConsumerFeignHystrixApplication.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-consumer-feign-hystrix/src/main/java/xc/service/ConsumerServiceFallbackFactory.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-consumer-feign-hystrix/src/main/java/xc/action/ConsumerFeignHystrixAction.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-consumer-feign-hystrix/src/main/java/xc/service/ConsumerFeignHystrixService.java

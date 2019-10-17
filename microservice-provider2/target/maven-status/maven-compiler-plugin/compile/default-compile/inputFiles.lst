@@ -1,5 +1,5 @@
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-provider2/src/main/java/com/xc/action/UserAction.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-provider2/src/main/java/com/xc/dao/UserDao.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-provider2/src/main/java/com/xc/ProviderApplication2.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-provider2/src/main/java/com/xc/service/UserService.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-provider2/src/main/java/com/xc/service/impl/UserServiceImpl.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-provider2/src/main/java/com/xc/action/UserAction.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-provider2/src/main/java/com/xc/ProviderApplication2.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-provider2/src/main/java/com/xc/service/impl/UserServiceImpl.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-provider2/src/main/java/com/xc/dao/UserDao.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-provider2/src/main/java/com/xc/service/UserService.java

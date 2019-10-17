@@ -1,3 +1,3 @@
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-parent/microservice-consumer/src/main/java/com/xc/action/UserConsumerAction.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-parent/microservice-consumer/src/main/java/com/xc/ConsumerApplication.java
-/Users/changxue/Documents/springcloud/Myspringcloud/microservice-parent/microservice-consumer/src/main/java/com/xc/configbean/ConfigBean.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-parent/microservice-consumer/src/main/java/com/xc/action/UserConsumerAction.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-parent/microservice-consumer/src/main/java/com/xc/configbean/ConfigBean.java
+/Users/changxue/Documents/springcloud/microservice-config/microservice-parent/microservice-consumer/src/main/java/com/xc/ConsumerApplication.java
