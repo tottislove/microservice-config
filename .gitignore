@@ -1,5 +1,7 @@
 # IntelliJ project files
 .idea
+.DS_store
+*/.DS_Store
 */*.iml
 */*/*.iml
 *.iml
