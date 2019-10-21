@@ -17,6 +17,7 @@
         <module>microservice-consumer-hystrix-dashbord</module>
         <module>microservice-config-client</module>
         <module>microservice-consumer-client</module>
+        <module>microservice-monitor</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -35,7 +36,8 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>Dalston.SR1</version>
+                <!--<version>Dalston.SR1</version>-->
+                <version>Dalston.SR4</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -75,4 +77,12 @@
         </dependencies>
     </dependencyManagement>
 
+
+    <dependencies>
+        <!-- JMX monitor -->
+        <dependency>
+            <groupId>org.jolokia</groupId>
+            <artifactId>jolokia-core</artifactId>
+        </dependency>
+    </dependencies>
 </project>
