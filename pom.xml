@@ -18,6 +18,7 @@
         <module>microservice-config-client</module>
         <module>microservice-consumer-client</module>
         <module>microservice-monitor</module>
+        <module>microservice-hibernate-parent</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -53,10 +54,17 @@
                 <artifactId>mybatis-spring-boot-starter</artifactId>
                 <version>1.3.0</version>
             </dependency>
+            <!--mysql驱动-->
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>5.1.26</version>
+            </dependency>
+            <!--druid-->
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid</artifactId>
-                <version>1.1.0</version>
+                <version>1.0.26</version>
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
