@@ -29,9 +29,33 @@ public class LeeCodeTest {
             System.out.print(i + ">");
         }
 
+        System.out.println(maxArea(new int[]{2, 3, 4, 5, 18, 17, 6}));
+//        System.out.println(maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
+
 
     }
 
+
+//    public List<List<Integer>> threeSum(int[] nums) {
+//        int length = nums.length;
+//        Arrays.sort(nums);
+//
+//    }
+
+    public static int maxArea(int[] height) {
+        int l = 0, r = height.length - 1;
+        int ans = 0;
+        while (l < r) {
+            int area = Math.min(height[l], height[r]) * (r - l);
+            ans = Math.max(ans, area);
+            if (height[l] <= height[r]) {
+                ++l;
+            } else {
+                r--;
+            }
+        }
+        return ans;
+    }
 
     //几种基础排序
 //    冒泡
